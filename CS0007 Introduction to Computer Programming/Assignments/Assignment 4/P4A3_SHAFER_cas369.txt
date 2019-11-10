@@ -1,0 +1,14 @@
+pig
+I oink!
+mouse
+I'm small and I squeak!
+cat
+I meow!
+cow
+I moo!
+dog
+I bark!
+zebra
+I have black and white stripes!
+rat
+I'm bigger and I squeak!

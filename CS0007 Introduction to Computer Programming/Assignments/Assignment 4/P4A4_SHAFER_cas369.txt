@@ -1,0 +1,7 @@
+pig
+mouse
+cat
+cow
+dog
+zebra
+rat
